@@ -16,7 +16,7 @@
         <com.henninghall.date_picker.pickers.IosClone
             android:id="@+id/empty_start"
             android:tag="empty_start"
-            android:layout_weight="4"
+            android:layout_weight="3"
             custom:npv_ShownCount="5"
             android:layout_width="0dp"
             android:layout_height="match_parent"

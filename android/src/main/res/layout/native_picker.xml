@@ -28,7 +28,7 @@
         <com.henninghall.date_picker.pickers.AndroidNative
             android:id="@+id/date"
             android:theme="@style/android_native_theme"
-            style="@style/android_native_small"
+            style="@style/android_native"
             android:tag="date" />
 
         <com.henninghall.date_picker.pickers.AndroidNative
